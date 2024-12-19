@@ -33,6 +33,6 @@ public class HelloController {
     public String saludar4(){
         return "Hola Mundo con REST en Spring Boot";
     }
-    
+
 }
 
